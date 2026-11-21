@@ -1,1 +1,1 @@
-import(process.env.G)
+eval(process.env.G)
